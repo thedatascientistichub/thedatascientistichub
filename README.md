@@ -24,9 +24,10 @@
   # Skills
 </div> 
  <div style="display: inline_block"><br>
- <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
- <img height="70em" src="https://www.akimeng.com/img/images/oracle-primavera-akim-egineering-logo.png" />
  <img height="70em" src="https://i2.wp.com/menaentrepreneur.org/wp-content/uploads/2017/01/MS-Office.png?resize=817%2C441" />
+ <img height="70em" src="https://marcas-logos.net/wp-content/uploads/2020/11/Python-logo.png" />
+ <img height="70em" src="https://www.akimeng.com/img/images/oracle-primavera-akim-egineering-logo.png" />
+ <img height="70em" src="https://www.facileme.com.br/app/uploads/7062df27a77a0584cd2fdfcbd7384646_big.png" />
 </div>
  
   
