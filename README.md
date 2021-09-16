@@ -1,7 +1,10 @@
 # Hi there! I’m Fernando Ribeiro. 👋
 
+<img height="70em" src="https://media3.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e475fqi9sfmwsceyuhs7xm8hxleowyil85vo3jd3kk5&rid=giphy.gif&ct=g" />
+
 </div> 
- <a href="https://www.linkedin.com/in/fernandoplan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+  <a href="https://www.linkedin.com/in/fernandoplan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.youtube.com/channel/UCfiL-YxWvqOytXpiZ3tXMtw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/fernando.ribeirojr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/pistolinha_phantom" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
@@ -29,9 +32,6 @@
  <img height="70em" src="https://www.akimeng.com/img/images/oracle-primavera-akim-egineering-logo.png" />
  <img height="70em" src="https://www.facileme.com.br/app/uploads/7062df27a77a0584cd2fdfcbd7384646_big.png" />
  <img height="70em" src="https://www.rightcolumn.com/wp-content/uploads/2020/08/pngfind.com-excel-logo-png-383271.png" />
- 
-
- 
 </div>
  
   
