@@ -14,7 +14,7 @@
 ##
 
  </div>
-  <a href="https://github.com/thedatascientistichub">
+  <a href="https://github.com/thedatascientistichub"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thedatascientistichub&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedatascientistichub&layout=compact&langs_count=7&theme=dracula"/>
  </div>
@@ -24,8 +24,9 @@
   # Skills
 </div> 
  <div style="display: inline_block"><br>
- <img height="70em" src="https://img.icons8.com/color/144/000000/office-365.png">
  <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+ <img height="70em" src="https://www.akimeng.com/img/images/oracle-primavera-akim-egineering-logo.png" />
+ <img height="70em" src="https://i2.wp.com/menaentrepreneur.org/wp-content/uploads/2017/01/MS-Office.png?resize=817%2C441" />
 </div>
  
   
