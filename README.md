@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on data analysis and data science projects
 - 📫 How to reach me: fernando.ribeiro@poweranalysis.com.br
+- 🔗 LinkedIn profile: https://www.linkedin.com/in/fernandoplan
 -->
 
  <div>
